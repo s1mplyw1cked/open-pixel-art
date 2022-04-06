@@ -5,13 +5,16 @@
   "main": "",
   "type": "",
   "bin": {},
-  "scripts": {},
+  "scripts": {}
+},
   "repository": {
     "type": "git",
     "url": "https://github.com/s1mplyw1cked/open-pixel-art.git"
   },
   "keywords": [],
   "author": ""
-  },
   "license": "ICS",
+  "bugs": {}
+},
   "homepage": "https://github.com/s1mplyw1cked/open-pixel-art"
+}
