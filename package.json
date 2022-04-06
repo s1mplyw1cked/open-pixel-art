@@ -1,8 +1,7 @@
 {
-  "name": "package-json",
+  "name": "open-pixel-art",
   "version": "1.0.0",
   "description": "",
-  "bin": {},
   "scripts": {}
 },
   "repository": {
