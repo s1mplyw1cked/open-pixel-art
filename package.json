@@ -4,7 +4,7 @@
   "description": "",
   "version": "1.0.0",
   "scripts": {
-    "start":"node open-pixel-art.js"
+    "start":"node server.js"
   },
   "repository": {
     "type": "git",
