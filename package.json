@@ -4,7 +4,7 @@
   "description": "",
   "version": "1.0.0",
   "scripts": {
-    "start": "node open-pixel-art"
+    "start-server": "npm start htttp://Localhost:8080"
   },
   "repository": {
     "type": "git",
