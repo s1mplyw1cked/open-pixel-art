@@ -4,8 +4,7 @@
   "description": "",
   "version": "1.0.0",
   "scripts": {
-    "start":""
-    "start-server": "npm start htttp://Localhost:8080"
+    "start":"start http://Localhost:8080"
   },
   "repository": {
     "type": "git",
