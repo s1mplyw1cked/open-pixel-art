@@ -4,7 +4,7 @@
   "description": "",
   "version": "1.0.0",
   "scripts": {
-    "start": "start http://localhost:8081 & node bin/www"
+    "start": "node package.json"
   },
   "repository": {
     "type": "git",
