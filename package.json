@@ -4,7 +4,7 @@
   "description": "",
   "version": "1.0.0",
   "scripts": {
-    "start": "start"
+    "start": "node open-pixel-art"
   },
   "repository": {
     "type": "git",
